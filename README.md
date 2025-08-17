@@ -90,14 +90,3 @@ Somnath Rana
 🔗 GitHub: SOMNATH43910
 
 <p align="center">⭐ If you like this repo, don't forget to star it!</p> ```
-✅ Is version me:
-
-Proper headings
-
-Spacing aur indentation fix
-
-Folder structure ek block me formatted
-
-Author details clean
-
-Example programs bullet list
