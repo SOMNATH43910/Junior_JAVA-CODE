@@ -26,6 +26,25 @@ public class loopExam {
             i = i +1;
         }
 
+
+         // while
+        int ump = 1;
+        while (ump<=10){
+            System.out.println("number is :" + ump);
+            ump = ump +1;
+        }
+
+
+        // while
+        Scanner http = new Scanner(System.in);
+
+        System.out.println("Welcome while input user:");
+         int Sce = 0;
+        while (Sce < 5){
+            int  type = http.nextInt();
+            System.out.println("Your number is :" + type);
+            Sce = Sce +1;
+        }
     }
 }
 

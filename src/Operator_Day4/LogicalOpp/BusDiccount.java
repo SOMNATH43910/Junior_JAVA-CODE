@@ -9,10 +9,10 @@ public class BusDiccount {
 
         System.out.println("Welcome to PM BUS service ");
 
-        System.out.println("kindly Enter Your Age: ");
+        System.out.print("kindly Enter Your Age: ");
         int age = input.nextInt();
 
-        System.out.println("ARE you are MALE / FEMALE? 👉🏻(True / False)");
+        System.out.print("ARE you are MALE / FEMALE? 👉🏻(True / False)");
         boolean isFemale = input.nextBoolean();
 
     // condition statement start
